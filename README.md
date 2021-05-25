@@ -38,5 +38,28 @@ My notes on ms build
 
 ## Build the next generation of collaborative apps for hybrid work (R1)
 
+- new class of apps : collaborative apps
+- e.g. Teams
+- "build once, deploy everywhere"
+- Microsoft Cloud
+- Meetings Platform
+- PowerFX open source language
+- Microsoft Teams Development Toolkit
+- Fluid Components (lists & tables & tasks)
+- Microsoft Graph
+- Viva Connection Carts, Sharepoint Development ... 
+
+- Microsoft 365 certification framework
+
+- Universal Actions for adaptive Cards -> put cards into different Office 365 Apps, Outlook, Teams ...
+
+## Project Reunion
+
+ - 0.8 sdk
+ - Downlevel Support to Windows 10 
+ - .Net 5
+ - Win32, WebView
+ 
+
 
 
