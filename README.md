@@ -69,3 +69,4 @@ My notes on ms build
 
 
 - .net maui (Multi-Platform App UI) <-!
+- Blazor Desktop apps sind möglich
