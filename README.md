@@ -73,3 +73,5 @@ My notes on ms build
 
 # what's new in vs code 
 
+- javascript profiler
+- neuer Javascript Debugger, magic terminal debugt alles was gestartet wird, auch npm scripts
