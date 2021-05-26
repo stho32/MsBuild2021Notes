@@ -67,3 +67,5 @@ My notes on ms build
 - dotnet 6 kommt im November
 - Minimal Web APIs -> das C# sieht ein bisschen aus wie das Javascript, was man in einer Node-Anwendung für eine WebAPI schreiben würde.
 
+
+- .net maui (Multi-Platform App UI) <-!
