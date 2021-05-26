@@ -60,6 +60,10 @@ My notes on ms build
  - .Net 5
  - Win32, WebView
  
+## The future of .net
 
-
+- upgrade assistant available, that analyses nuget packages & code and helps step by step to migrate
+- es wird einen upgrade assistant für webforms geben
+- dotnet 6 kommt im November
+- Minimal Web APIs -> das C# sieht ein bisschen aus wie das Javascript, was man in einer Node-Anwendung für eine WebAPI schreiben würde.
 
